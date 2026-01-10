@@ -16,6 +16,5 @@ You can choose how many letters, numbers, and special characters you want, and t
   - Numbers (0–9)
   - Special characters (!, @, #, $, %, ^, &, *)
 - Generates a random password each time you run it.
-- Beginner-friendly code using Python’s `random` module.
-
+- Beginner-friendly code using Python’s "random module" module.
 ---
