@@ -18,3 +18,4 @@ You can choose how many letters, numbers, and special characters you want, and t
 - Generates a random password each time you run it.
 - Beginner-friendly code using Python’s "random module" module.
 ---
+
